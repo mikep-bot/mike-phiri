@@ -1,10 +1,4 @@
 # mike-phiri
-# assignment-2
-this assignment`s aim is to show how different codes works under different conditions
-
-
-Here's a clean, professional, and well-structured single documentation file for all your C codes:
-Markdown# C Pointers and Arrays - Complete Documentation
 
 
 ## 1. Pointer Basics
