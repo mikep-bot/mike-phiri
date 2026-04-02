@@ -5,9 +5,7 @@
 
 ### 1.1 pointer.cpp
 **Description:**  
-Introduces the basic concept of pointers: declaring a pointer, assigning an address using `&`, and dereferencing using `*`.
-
-**Key Concept:** Pointer declaration, address-of operator, dereference operator.
+ Pointer declaration, address-of operator, dereference operator.
 
 ```c
 #include <stdio.h>
